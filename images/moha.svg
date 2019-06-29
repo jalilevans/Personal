@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="350px" height="240px" viewBox="0 0 350 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>moha</title>
+    <desc>Created with Sketch.</desc>
+    <g id="moha" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#D8D8D8" x="0" y="0" width="350" height="240"></rect>
+        <g id="Logo-3" transform="translate(38.000000, 29.000000)">
+            <g id="Logo-2" transform="translate(21.445801, 0.000000)">
+                <g id="Path" stroke="#000000">
+                    <path d="M25.7993004,96.4561332 C139.250985,96.4561332 172.865565,96.4561332 172.865565,96.4561332 C62.1226876,181.521257 10.6215836,135.772775 9.8,73.5 C8.97841642,11.2272251 81.2288544,10.884584 185.063243,52.5333848 C230.430924,70.730723 259.813857,36.0486964 251.358876,15.4879761 C242.903895,-5.07274419 198.985784,-5.07274419 189.314749,15.4879761 C179.643714,36.0486964 218.521408,44.6909461 218.521408,38.5410201" stroke-width="8.05"></path>
+                    <path d="M210.512947,37.7879149 C211.993842,37.7879149 215.719592,36.659257 219.701881,34.2176303 C222.35674,32.5898791 224.366267,30.8673357 225.730463,29.05 C224.66378,37.0464414 222.688431,41.6365194 219.804416,42.820234 C215.478394,44.5958059 207.971288,37.7879149 210.512947,37.7879149 Z" id="Path-2" stroke-width="0.875" fill="#000000"></path>
+                    <path d="M35.9461379,92.7633788 C27.0994048,92.9469123 20.988733,91.5422767 17.6141226,88.5494721 C17.6141226,89.1213873 23.5016297,100.353779 25.9845174,100.353779 C28.4674051,100.353779 30.1670058,100.094653 32.9373325,100.094653 C34.784217,100.094653 35.7871521,97.6508951 35.9461379,92.7633788 Z" id="Path-3" stroke-width="0.875" fill="#000000" stroke-linejoin="round"></path>
+                </g>
+                <text id="Moha" font-family="JCfg, PilGi" font-size="66.5" font-weight="normal" letter-spacing="-1.74723573" fill="#000000">
+                    <tspan x="27.125" y="89.05">Moha</tspan>
+                </text>
+            </g>
+            <g id="Da-Barber" transform="translate(0.000000, 100.822029)" font-family="AmericanTypewriter, American Typewriter" font-size="37.625" font-weight="normal" letter-spacing="-0.988567561">
+                <text id="D" transform="translate(26.106010, 22.508373) rotate(60.000000) translate(-26.106010, -22.508373) " fill="#FF0000">
+                    <tspan x="12.6060095" y="35.0083734">D</tspan>
+                </text>
+                <text id="a" transform="translate(38.186937, 39.346513) rotate(53.000000) translate(-38.186937, -39.346513) " fill="#001DA9">
+                    <tspan x="27.686937" y="51.846513">a</tspan>
+                </text>
+                <text id="B" transform="translate(57.711951, 52.419333) rotate(26.000000) translate(-57.711951, -52.419333) " fill="#FF0000">
+                    <tspan x="44.711951" y="64.9193333">B</tspan>
+                </text>
+                <text id="a" transform="translate(76.642355, 57.359861) rotate(11.000000) translate(-76.642355, -57.359861) " fill="#001DA9">
+                    <tspan x="66.1423548" y="69.8598607">a</tspan>
+                </text>
+                <text id="r" transform="translate(94.294034, 59.086445) rotate(-4.000000) translate(-94.294034, -59.086445) " fill="#FF0000">
+                    <tspan x="85.2940337" y="71.5864453">r</tspan>
+                </text>
+                <text id="b" transform="translate(112.380683, 58.233668) rotate(-10.000000) translate(-112.380683, -58.233668) " fill="#001DA9">
+                    <tspan x="101.880683" y="70.733668">b</tspan>
+                </text>
+                <text id="e" transform="translate(128.825082, 53.043339) rotate(-20.000000) translate(-128.825082, -53.043339) " fill="#FF0000">
+                    <tspan x="119.325082" y="65.5433387">e</tspan>
+                </text>
+                <text id="r" transform="translate(144.912120, 46.786625) rotate(-22.000000) translate(-144.912120, -46.786625) " fill="#001DA9">
+                    <tspan x="135.91212" y="59.2866253">r</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

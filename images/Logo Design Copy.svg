@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="350px" height="240px" viewBox="0 0 350 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Logo Design Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Logo-Design-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="350" height="240"></rect>
+        <g id="Logo-1" transform="translate(31.000000, 19.000000)">
+            <path d="M3.4,43.6360012 C9.2346457,28.7710251 30.8745288,21.3385371 68.3196494,21.3385371 C103.232217,21.3385371 62.5559126,38.0064431 102.692161,38.0064431 C129.449659,38.0064431 150.752273,25.3376287 166.6,-3.55271368e-15 C152.296774,61.2359165 130.994161,117.644793 102.692161,169.226629 C59.9353107,247.153164 59.4391871,169.564978 102.692161,121.593883 C145.945134,73.6227891 193.82632,71.0667731 214.49285,71.0667731 C247.274613,71.0667731 270.101796,57.2243333 282.974399,29.5394536" id="Path" stroke="#000000" stroke-width="3.39285714" stroke-linecap="round"></path>
+            <ellipse id="Oval" fill="#000000" cx="1.7" cy="51.4864265" rx="1.7" ry="1.69166667"></ellipse>
+            <ellipse id="Oval-Copy" fill="#000000" cx="287.3" cy="21.0364265" rx="1.7" ry="1.69166667"></ellipse>
+        </g>
+    </g>
+</svg>
