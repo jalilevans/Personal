@@ -31,6 +31,10 @@ hr {
     margin-top: 80px;
 }
 
+p {
+    margin-bottom: 8px;
+}
+
 @media (max-width: 780px) {
     h1 {
         font-size: 1.6rem;
@@ -91,6 +95,10 @@ a:hover {
     float: right;
     width: 50%;
     margin-bottom: 0;
+}
+
+.text-link {
+    font-weight: 700;
 }
 
 .work .img-fluid {
