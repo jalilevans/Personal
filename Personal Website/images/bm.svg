@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="350px" height="240px" viewBox="0 0 350 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>bm</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50%" gradientTransform="translate(0.500000,0.500000),scale(0.925620,1.000000),rotate(90.000000),translate(-0.500000,-0.500000)" id="radialGradient-1">
+            <stop stop-color="#00CDFF" offset="0%"></stop>
+            <stop stop-color="#006F8A" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="bm" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#D8D8D8" x="0" y="0" width="350" height="240"></rect>
+        <path d="M115,64 L172.992519,152.313709 L157.498335,176 L115,176 L115,64 Z M236,64 L236,176 L162.810626,176 L236,64 Z M175.741167,94.0503896 L194.500867,119.569991 L175.476323,148.681617 L156.602881,119.80774 L175.741167,94.0503896 Z" id="Graphic" fill="url(#radialGradient-1)"></path>
+    </g>
+</svg>
