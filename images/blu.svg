@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="350px" height="240px" viewBox="0 0 350 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>blu</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="22.9993829%" y1="7.19604891%" x2="83.3111687%" y2="86.3877357%" id="linearGradient-1">
+            <stop stop-color="#FF6600" offset="0%"></stop>
+            <stop stop-color="#FF9F00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="17.3374972%" y1="11.9794976%" x2="81.6190118%" y2="88.5168951%" id="linearGradient-2">
+            <stop stop-color="#FFAF00" offset="0%"></stop>
+            <stop stop-color="#FFD700" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="blu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#D8D8D8" x="0" y="0" width="350" height="240"></rect>
+        <g id="Group-5-Copy-2" transform="translate(21.000000, 59.000000)">
+            <g id="Group-4" transform="translate(52.300000, 55.800000) scale(-1, 1) translate(-52.300000, -55.800000) translate(0.800000, 2.300000)">
+                <g id="Group-3-Copy-3" stroke-width="3.9">
+                    <circle id="Oval" stroke="url(#linearGradient-1)" cx="34.2" cy="34.2" r="34.2"></circle>
+                    <circle id="Oval-Copy" stroke="url(#linearGradient-2)" cx="68.4" cy="72.6" r="34.2"></circle>
+                </g>
+                <path d="M32.7764044,66.4205314 C33.3457689,66.4326728 33.9776391,66.4326728 34.672015,66.4205314 C35.366391,66.40839 36.0608348,66.385199 36.7553467,66.3509583 L36.231349,70.2942535 C35.6001689,70.3224116 34.958679,70.3370857 34.3068792,70.3382759 C33.6550795,70.3394661 32.9929699,70.3271724 32.3205505,70.3013947 C32.3246241,69.8191859 32.3706485,69.1669399 32.4586237,68.3446565 C32.5465989,67.5223731 32.6525258,66.8809981 32.7764044,66.4205314 Z" id="Path" fill="#FF9900"></path>
+            </g>
+            <text id="BLU" font-family="Anurati-Regular, Anurati" font-size="60" font-weight="normal" letter-spacing="1.65688019" fill="#FF6600">
+                <tspan x="118.2" y="54">BLU</tspan>
+            </text>
+            <text id="MEDIA" font-family="Helvetica-Light, Helvetica" font-size="60" font-weight="300" letter-spacing="1.65688019" fill="#000000">
+                <tspan x="113.4" y="108.9">MEDIA</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
